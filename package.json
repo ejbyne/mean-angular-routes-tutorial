@@ -1,0 +1,8 @@
+{
+  "name": "mean-angular-routes-tutorial",
+  "main": "server.js",
+  "author": "Edward Byne",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
